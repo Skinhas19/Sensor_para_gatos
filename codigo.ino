@@ -4,7 +4,7 @@
 
 // WiFi
 #define WIFI_SSID "A15 de Lucas"
-#define WIFI_PASSWORD "12345678"
+#define WIFI_PASSWORD "*******"//arrumar senha caso precise
 
 // Telegram
 #define TELEGRAM_BOT_TOKEN "7857352930:AAF5077aQ7BxTvqLYliFebzZiofnHZJHao0"
