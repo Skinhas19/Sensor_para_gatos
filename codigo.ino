@@ -7,8 +7,8 @@
 #define WIFI_PASSWORD "*******"//arrumar senha caso precise
 
 // Telegram
-#define TELEGRAM_BOT_TOKEN "7857352930:AAF5077aQ7BxTvqLYliFebzZiofnHZJHao0"
-#define CHAT_ID "7967251086"
+#define TELEGRAM_BOT_TOKEN "**********************"
+#define CHAT_ID "*************"
 
 #define Sensor 22  // GPIO22 da ESP32
 bool movimentoDetectado = false;
